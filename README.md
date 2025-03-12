@@ -13,27 +13,6 @@ I am an IT Support Specialist with 3+ years of experience in system/server admin
 ✔️ Cloud & Security: AWS, GCP, Azure, Intune, Okta, MDM solutions
 ✔️ Automation: PowerShell, Blink Automation
 
-🛠️ Technologies Used in This Project
-Frontend: HTML, CSS, JavaScript
-Backend: (If applicable, mention the backend technologies)
-Hosting & Deployment: (e.g., GitHub Pages, Vercel, Netlify)
-📂 Features
-✅ Personalized portfolio showcasing my skills & experience
-✅ Projects section highlighting my best work
-✅ Contact section for easy communication
-
-📸 Screenshots
-(Add screenshots of your portfolio website here if available)
-
-🚀 Getting Started
-1️⃣ Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/MosheShiri/your-portfolio-repo.git
-cd your-portfolio-repo
-2️⃣ Open the project
-Simply open index.html in your browser, or if using a framework, follow the installation steps.
 
 📬 Contact Me
 📧 Email: moshikoshiri03@gmail.com
