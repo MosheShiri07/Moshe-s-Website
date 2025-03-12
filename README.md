@@ -16,5 +16,4 @@ I am an IT Support Specialist with 3+ years of experience in system/server admin
 
 📬 Contact Me
 📧 Email: moshikoshiri03@gmail.com
-💼 LinkedIn: Your LinkedIn Profile (Replace with actual link)
 
